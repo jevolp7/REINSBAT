@@ -1,15 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09344b14-ed8e-4d87-9212-906de9fc2225" name="Changes" comment="" />
+    <list default="true" id="09344b14-ed8e-4d87-9212-906de9fc2225" name="Changes" comment="Inital Commit&#10;-Sample02">
+      <change afterPath="$PROJECT_DIR$/SampleBat03/src/main/java/com/sli/reinsu/batch/samplebat03/configuration/StepTranstionConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleBat02/src/test/java/com/sli/reinsu/batch/samplebat02/SampleBat01ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SampleBat02/src/test/java/com/sli/reinsu/batch/samplebat02/SampleBat02ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleBat02/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/SampleBat02/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleBat02/target/test-classes/com/sli/reinsu/batch/samplebat02/SampleBat01ApplicationTests.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jevolp7"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jevolp7/REINSBATCH.git",
+    "accountId": "e8c38b59-5a72-4329-aff2-3f5a7d572c22"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -21,14 +52,44 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.SampleBat02 [clean].executor": "Run",
+    "Maven.SampleBat02 [compile].executor": "Run",
+    "Maven.SampleBat02 [package].executor": "Run",
+    "Maven.SampleBat02 [test].executor": "Run",
+    "Maven.SampleBat02 [validate].executor": "Run",
+    "Maven.SampleBat03 [clean].executor": "Run",
+    "Maven.SampleBat03 [compile].executor": "Run",
+    "Maven.SampleBat03 [test].executor": "Run",
+    "Maven.SampleBat03 [validate].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.SampleBat02Application.executor": "Run",
     "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "build.tools",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SampleBat03Application">
     <configuration name="SampleBat02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="ACTIVE_PROFILES" value="mysql" />
       <module name="SampleBat02" />
@@ -37,6 +98,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SampleBat03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="mysql" />
+      <module name="SampleBat03" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sli.reinsu.batch.samplebat03.SampleBat03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SampleBat03Application" />
+      <item itemvalue="Spring Boot.SampleBat02Application" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -54,10 +127,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714548944270</updated>
+      <workItem from="1714548945269" duration="1824000" />
     </task>
+    <task id="LOCAL-00001" summary="Inital Commit&#10;-Sample02">
+      <option name="closed" value="true" />
+      <created>1714549330002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714549330002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inital Commit&#10;-Sample02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inital Commit&#10;-Sample02" />
   </component>
 </project>
